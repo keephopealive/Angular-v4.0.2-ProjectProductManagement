@@ -1,0 +1,15 @@
+div {
+    width: 410px;
+}
+div.inputs label {
+    width: 200px;
+    display: inline-block;
+}
+input { 
+    width: 200px;
+}
+input.submit {
+    margin-left: 203px;
+    width: 207px;
+    border: 0px;
+}

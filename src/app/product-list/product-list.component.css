@@ -1,0 +1,29 @@
+
+div.product {
+    width: 320px;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+div.product h3.imgRep {
+    padding-top: 82px;
+    padding-bottom: 83px;
+}
+div.product img {
+    width: 290px;
+    margin: 5px;
+}
+div.product button.delete,
+div.product button.edit {
+    margin: 5px;
+    border: 0px;
+    padding: 5px;
+    width: 285px;
+}
+div.product button.edit {
+    background-color: darkorange;
+}
+div.product button.delete {
+    background-color: crimson;
+}
